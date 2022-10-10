@@ -1,1 +1,1 @@
-a list of scripts on shell redirections
+Shell I/O redirections
